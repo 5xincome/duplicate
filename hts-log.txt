@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Mar 2023 12:36:06 at https://3x-income.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://3x-income.com/ -O1 "C:\Users\julia\OneDrive\Documentos\3x" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:36:36	Error: 	"Not Found" (404) at link https://3x-income.com/trip/wp-content/uploads/2019/03/cropped-Cryptocurrency-2.jpg (from https://3x-income.com/)
+12:36:36	Error: 	"Not Found" (404) at link https://3x-income.com/trip/wp-content/uploads/2019/03/Reg_Certificate-212x300.jpg (from https://3x-income.com/)
+12:36:36	Error: 	"Not Found" (404) at link https://3x-income.com/trip/wp-content/uploads/2019/03/procesory.jpg (from https://3x-income.com/)
+12:36:36	Error: 	"Not Found" (404) at link https://3x-income.com/trip/wp-content/uploads/2019/03/Untitled-1024x678.jpg (from https://3x-income.com/)
+12:36:36	Error: 	"Not Found" (404) at link https://3x-income.com/trip/wp-content/uploads/2019/03/qr.png (from https://3x-income.com/)
+12:36:37	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/n4skz3ptpnuo690aay2neq7tonurcqlh.js (from https://3x-income.com/)
+12:36:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://3x-income.com/wp-content/plugins/google-language-translator/images/flags22.png (from https://3x-income.com/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.18)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/fonts/glyphicons-halflings-regular.eot (from https://3x-income.com/wp-content/themes/web-development/assets/css/bootstrap.css?ver=6.1.1)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/fonts/glyphicons-halflings-regular.eot? (from https://3x-income.com/wp-content/themes/web-development/assets/css/bootstrap.css?ver=6.1.1)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/fonts/glyphicons-halflings-regular.woff2 (from https://3x-income.com/wp-content/themes/web-development/assets/css/bootstrap.css?ver=6.1.1)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/fonts/glyphicons-halflings-regular.woff (from https://3x-income.com/wp-content/themes/web-development/assets/css/bootstrap.css?ver=6.1.1)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/fonts/glyphicons-halflings-regular.ttf (from https://3x-income.com/wp-content/themes/web-development/assets/css/bootstrap.css?ver=6.1.1)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/fonts/glyphicons-halflings-regular.svg (from https://3x-income.com/wp-content/themes/web-development/assets/css/bootstrap.css?ver=6.1.1)
+12:36:38	Error: 	"Not Found" (404) at link https://3x-income.com/wp-content/themes/web-development/assets/css/owl.video.play.png (from https://3x-income.com/wp-content/themes/web-development/assets/css/owl.carousel.css?ver=6.1.1)
+12:36:38	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/n4skz3ptpnuo690aay2neq7tonurcqlh.js (from https://3x-income.com/)
+12:36:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://3x-income.com/wp-content/plugins/google-language-translator/images/flags22.png (from https://3x-income.com/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.18)
+12:36:38	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/n4skz3ptpnuo690aay2neq7tonurcqlh.js (from https://3x-income.com/)
+12:36:38	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://3x-income.com/wp-content/plugins/google-language-translator/images/flags22.png (from https://3x-income.com/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.18)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 67 links scanned, 48 files written (2937514 bytes overall) [1842089 bytes received at 57565 bytes/sec], 1508875 bytes transferred using HTTP compression in 28 files, ratio 24%, 4.7 requests per connection
+(14 errors, 4 warnings, 0 messages)
